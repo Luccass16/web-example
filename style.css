@@ -1,0 +1,116 @@
+body {
+     background-color:#343a40;
+
+}
+
+h1 {
+	font-family: 'Staatliches', cursive;
+	font-size: 48px;
+    color: CCF5AC;
+	padding: 50px;
+
+   }
+
+
+
+#subt {
+	padding:18;
+	font-size: 15px;
+	color:CCF5AC;
+	background-color:black;  
+	}
+
+
+
+  
+
+#subtitle{
+	font-size: 25px;
+	color: 8EA8C3;
+
+}
+
+#banner{
+    background-size:cover;
+    background-position:center;
+    background-image: url("https://images.unsplash.com/photo-1578319080515-85e6f9f9427d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    border: none;
+    height: 350px;
+    
+}
+
+
+.card-product {
+
+  overflow: hidden;
+  height: 130px;
+  background: white;
+  box-shadow: 0 0 15px purple;
+  display: flex;
+  align-items: center;
+  margin: 30;
+}
+
+.card-product img {
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+}
+
+.card-product h2 {
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-product p {
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+.card-product .card-product-infos {
+
+  padding: 16px;
+}
+
+
+
+.controlform{
+	color:white;
+}
+
+#ultimo{
+font-family: 'Staatliches', cursive;
+	font-size: 30px;
+    color: CCF5AC;
+    margin: 52px;
+
+}
+
+#foos{ 
+	color:CCF5AC;
+    height: 135px;
+    background-color:black;
+    font-size: 20px;
+	padding:15px;
+	text-align:center; 
+}
+
+
+
+.fab {
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
